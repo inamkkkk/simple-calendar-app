@@ -1,0 +1,14 @@
+### Flutter ###
+*.iml
+.idea
+.dart_tool/
+.flutter-plugins
+.packages
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+ios/Runner.xcworkspace/
+lib/generated/
+packages/*/.pub
+.DS_Store
